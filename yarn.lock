@@ -5819,10 +5819,10 @@ react-testing-library@^8.0.0:
   resolved "https://registry.yarnpkg.com/react-testing-library/-/react-testing-library-8.0.1.tgz#b3dd43bce3fa88423cf0a23292fb819023c227cc"
   integrity sha512-Gq4JC9r3prA4hYwo7afcbHHMFckO29+5Nrh2KblAEPuK/DWaU0bJE1vtpAgLhzhY9bBirmcgjjIHljHEwGAXKw==
 
-react-useportal@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/react-useportal/-/react-useportal-1.0.12.tgz#50330d2e87762812d480f68f6a85fb76ec750124"
-  integrity sha512-C5MxFYizjAtMQQxNmhPUQq44qFX8KpQuDhxmLAElvanJeVhtql4477tjK5E76hYD0OwgkKToO3D3AWlhZL7VnA==
+react-useportal@^1.0.13:
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/react-useportal/-/react-useportal-1.0.13.tgz#abfc29f8128756cd7382bff7c81a4f446b792199"
+  integrity sha512-83KpNTXUIHnRVTLeMberIblCtssvRSKCPnG/xT9NW60gDYfU13pQBNQKCVUF8MBK+7LnCQ/ZrOuXl8Mp+iXdXA==
   dependencies:
     use-ssr "^1.0.19"
 

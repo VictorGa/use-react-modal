@@ -97,7 +97,6 @@ yarn-error.log*
 /coverage
 
 # production
-/dist
 
 # misc
 .DS_Store
